@@ -1,0 +1,26 @@
+PODS:
+  - Block-KVO (2.2.1)
+  - Expecta (1.0.0)
+  - OCMock (3.1.2)
+  - Specta (1.0.2)
+  - Typhoon (3.2.1):
+    - Typhoon/no-arc (= 3.2.1)
+  - Typhoon/no-arc (3.2.1)
+
+DEPENDENCIES:
+  - Block-KVO
+  - Expecta (~> 1.0)
+  - OCMock (~> 3.1.2)
+  - Specta (~> 1.0)
+  - Typhoon (~> 3.2.1)
+
+SPEC CHECKSUMS:
+  Block-KVO: 64b63a4bde798ab43caa221db916192cee731886
+  Expecta: 32604574add2c46a36f8d2f716b6c5736eb75024
+  OCMock: a10ea9f0a6e921651f96f78b6faee95ebc813b92
+  Specta: 9cec98310dca411f7c7ffd6943552b501622abfe
+  Typhoon: 18ec2ddce9dcb039d5c82bd7e4235e7868faaa06
+
+PODFILE CHECKSUM: e1a3bb5e92d4d9cc6fddececd6ffa699c11db116
+
+COCOAPODS: 1.1.1
